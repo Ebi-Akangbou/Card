@@ -19,7 +19,7 @@ Check screenshot folder for both mobile and desktop view.
 ### Links
 
 - Code Sandbox URL: (https://7hiy0z.csb.app/)
--  URL: (https://vercel.com/ebi-akangbou)
+- vercel URL: (https://vercel.com/ebi-akangbou)
 
 ## My process
 
