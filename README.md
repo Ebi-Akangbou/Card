@@ -14,12 +14,12 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
-Check folder for screenshot of both mobile and desktop view.
+Check screenshot folder for both mobile and desktop view.
 
 ### Links
 
-- Frontend Mentor: [Add solution URL here](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component-PFk8DhkbgC/edit)
-- Code Sand Box URL: (https://codesandbox.io/u/Ebi%20Akangbou)
+- Code Sandbox URL: (https://7hiy0z.csb.app/)
+- Live Site URL: (https://vercel.com/ebi-akangbou)
 
 ## My process
 
@@ -27,7 +27,6 @@ Check folder for screenshot of both mobile and desktop view.
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 
 ### What I learned
 
@@ -43,4 +42,3 @@ development I'd like a more detailed method of placing a hover on an image witho
 - Website - [Ebi Akangbou](https://vercel.com/ebi-akangbou)
 - Frontend Mentor - [Ebi Akangbou](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [Ebi Akangbou](https://www.twitter.com/EAkangbou)
-- Instagram - [Ebi Akangbou] (https://www.instagram.com/ebi_ultimate/)
